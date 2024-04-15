@@ -1,5 +1,5 @@
 # CarTracker
-This project simulates the movement of a car on a map.The project was made with Qt Creator
+This project simulates the movement of a car on a map.The project was made with Qt Creator (Qt 5.7)
 ## supported platforms
 ### Main Platform: Android
 
